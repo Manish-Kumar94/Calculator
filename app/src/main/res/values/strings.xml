@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="instructionText">Enter Two Numbers</string>
+    <string name="addBtn">+</string>
+    <string name="subBtn">-</string>
+    <string name="multBtn">*</string>
+    <string name="divBtn">/</string>
+    <string name="cls">CLS</string>
+</resources>
